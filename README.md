@@ -10,4 +10,4 @@ I CADed the enclosure up in sketchup(because I haven't taken the time to learn a
 <h2>Veneer</h2>
 The veneer was the key to making this project look nice. I really wanted to make the night light out of wood, not plastic, but I don't have a woodshop in my apartment so that was out of the question. The veneer also allowed for the signiture look of the text shining through the wood. It give a nice warm glow at night and looks like a simple box in the window during the day.
 <h2>Replicate</h2>
-All the design files, code, and photos can be foun here!
+All the design files, code, and photos can be found here!
