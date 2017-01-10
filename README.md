@@ -2,7 +2,7 @@
 ![Light at night](https://github.com/djnugent/SolarNightLight/blob/master/pics/IMG_20161215_232419544.jpg)
 I made a solar night for my girlfriend's Christmas present. She's an advocate for green energy and her first band(The Roomies) just parted ways so I decided to make her a night light that encompassed both of these. For this project I created a 3D printed enclosure covered in veneer and custom solar circuit based on a attiny85.
 <h2>Circuit</h2>
-![Circuit](https://github.com/djnugent/SolarNightLight/blob/master/pics/IMG_20170108_210904779.jpg)
+![Circuit](https://github.com/djnugent/SolarNightLight/blob/master/pics/IMG_20161206_144125350.jpg
 The first step was to test design and prototype the circuit to make sure my idea was possible. I wanted it to be solar power(obviously) but also rechargeable by usb if there wasn't enough sun.  I choose a 6v 70mA solar panel and 3 AA 2500mAh rechargable batteries to power the system. The system draws 20mA when lit and &lt;.10mA when idle. So it could roughly last 10 days on a single charge with no sun. I used an attiny85(adafruit 3v trinket) to read solar levels and control the led panel brightness with pwm. The led panel was composed of 8 12mmx40mm led backlights that were masked by a sticker from carstickers.com. I was pretty proud of the circuit because it is simple but is actually does a lot. It allows for solar or usb charging and uses the solar panel as a light sensor. I designed it myself and it works great!
 <h2>Enclosure</h2>
 ![Enclosure](https://github.com/djnugent/SolarNightLight/blob/master/pics/Nightlight.png)
